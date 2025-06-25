@@ -22,7 +22,7 @@ export default function HomePage() {
         <div className="flex justify-center items-center mb-4 text-7xl">⛹️</div>
         <h1 className="text-4xl font-semibold mb-8 text-center text-white tracking-wide">
           <span className="inline-block border-b-4 border-b-blue-950 text-indigo-200 pb-0.5">
-            🏀 Upcoming Basketball Matches - 2025
+            🏀 Upcoming Basketball Matches - 2025/26
           </span>
         </h1>
 
